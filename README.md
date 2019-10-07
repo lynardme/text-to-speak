@@ -1,3 +1,4 @@
 # text-to-speak
 
-### Installation
+### Installation:
+  pip install pyttsx3
